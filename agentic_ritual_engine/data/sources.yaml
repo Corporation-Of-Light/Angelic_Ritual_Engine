@@ -1,0 +1,136 @@
+# Curated source manifest grouped by tradition for the Agentic Ritual Engine.
+solomonic_grimoires:
+  - title: "Key of Solomon the King (Clavicula Salomonis)"
+    author: "S. L. MacGregor Mathers (ed./tr.)"
+    year: 1889
+    tradition: "Solomonic"
+    url: "https://archive.org/download/b24884431/b24884431.pdf"
+    license: "Public Domain Mark (Wellcome/IA)"
+    highlights:
+      - "Definitive Mathers edition with complete plates."
+      - "High-resolution PDF suitable for symbol extraction."
+      - "Provides classical conjurations and planetary seals."
+    keywords:
+      - planetary
+      - seal
+      - conjuration
+  - title: "Key of Solomon the King (Wellcome online viewer)"
+    author: "Mathers (ed./tr.)"
+    year: 1889
+    tradition: "Solomonic"
+    url: "https://wellcomecollection.org/works/xhh2qvud"
+    license: "Public Domain Mark"
+    highlights:
+      - "Library landing page with contextual metadata."
+      - "Alternate access point to the Mathers facsimile."
+      - "Useful for cross-checking pagination and annotations."
+  - title: "Lemegeton / Lesser Key of Solomon (critical digital edition)"
+    author: "Joseph H. Peterson (ed.)"
+    year: "1999 digital (17th c. manuscripts)"
+    tradition: "Solomonic"
+    url: "https://www.esotericarchives.com/solomon/lemegeton.htm"
+    license: "Scholarly digital edition (fair scholarly use)"
+    highlights:
+      - "Includes Goetia, Theurgia-Goetia, Ars Paulina, Almadel, Notoria."
+      - "Normalized transcription with side-by-side commentary."
+      - "Great for extracting variant sigils across manuscripts."
+  - title: "Heptameron (Magical Elements) – in Agrippa’s Fourth Book set (1655)"
+    author: "Pseudo-Peter de Abano; Robert Turner (tr.)"
+    year: 1655
+    tradition: "Solomonic/Angelical"
+    url: "https://en.wikisource.org/wiki/Page:Fourth_Book_of_Occult_Philosophy,_1655.djvu/97"
+    license: "Public Domain text (Wikisource)"
+    highlights:
+      - "Provides hour-by-hour angelic conjurations."
+      - "Contains lucid planetary tables for rapid reference."
+      - "Ideal for cross-linking with planetary correspondence sets."
+
+enochian_archives:
+  - title: "A True & Faithful Relation… (John Dee diaries, Casaubon ed.)"
+    author: "John Dee; Meric Casaubon (ed.)"
+    year: 1659
+    tradition: "Enochian / Angelic"
+    url: "https://digital.library.cornell.edu/catalog/witchcraft039"
+    license: "Library digital collection; Public Domain"
+    highlights:
+      - "Primary printed account of Dee & Kelley's angelic operations."
+      - "Includes fold-out tables and mystical charts."
+      - "High-quality scans for transcription and diagram capture."
+  - title: "A True & Faithful Relation… (IA/Wikimedia mirror)"
+    author: "John Dee; Casaubon"
+    year: 1659
+    tradition: "Enochian / Angelic"
+    url: "https://commons.wikimedia.org/wiki/File:A_true_%26_faithful_relation_of_what_passed_for_many_yeers_between_Dr._John_Dee_..._and_some_spirits_-_tending_(IA_truefaithfulrela00deej).pdf"
+    license: "Public Domain"
+    highlights:
+      - "Direct downloadable PDF mirror for offline processing."
+      - "Preserves marginalia and printer marks for study."
+      - "Use alongside Cornell scan for redundancy checks."
+
+renaissance_occult_philosophy:
+  - title: "Agrippa – De Occulta Philosophia (1533, Latin – LOC facsimile)"
+    author: "H. C. Agrippa"
+    year: 1533
+    tradition: "Renaissance occult philosophy"
+    url: "https://archive.org/details/DeOccultaPhilosophiaLoc1533"
+    license: "Public Domain Mark"
+    highlights:
+      - "Authoritative Latin source with original woodcuts."
+      - "Core reference for planetary and elemental correspondences."
+      - "Supports multilingual symbol indexing."
+  - title: "Agrippa – De Occulta Philosophia (Jung Collection facsimile)"
+    author: "H. C. Agrippa"
+    year: 1533
+    tradition: "Renaissance occult philosophy"
+    url: "https://archive.org/details/DeOccultaPhilosophiaJungCollection1533"
+    license: "Public Domain Mark"
+    highlights:
+      - "High-resolution alternate scan from the Jung Collection."
+      - "Useful for plate comparison and OCR variance testing."
+      - "Complements LOC edition for image quality assurance."
+
+renaissance_theurgy:
+  - title: "Arbatel de Magia Veterum (Of the Magic of the Ancients)"
+    author: "Anonymous (1575); J. H. Peterson (ed. digital)"
+    year: 1575
+    tradition: "Renaissance Theurgic"
+    url: "https://ftp.esotericarchives.com/solomon/arbatel.htm"
+    license: "Scholarly digital edition (fair scholarly use)"
+    highlights:
+      - "Olympic spirits with concise operational guidelines."
+      - "Contains iconic tables ideal for clean vectorization."
+      - "Bridges Solomonic and philosophical magic lineages."
+
+folk_and_magical_practice:
+  - title: "Sixth & Seventh Books of Moses (De Laurence ed.)"
+    author: "Anonymous (folk-Solomonic); L. W. de Laurence (ed.)"
+    year: 1910
+    tradition: "Folk-Solomonic"
+    url: "https://archive.org/details/1910-de-laurence-sixth-and-seventh-books-of-moses"
+    license: "Likely Public Domain in U.S.; verify jurisdiction"
+    highlights:
+      - "Popular folk adaptation with widely circulated seals."
+      - "Scan includes hand-retouched diagrams and talismans."
+      - "Valuable for comparative folk magic studies."
+  - title: "Book of the Sacred Magic of Abramelin the Mage"
+    author: "Abraham von Worms; S. L. M. Mathers (tr.)"
+    year: 1898
+    tradition: "Theurgic"
+    url: "https://openlibrary.org/books/OL21478170M"
+    license: "Public Domain (via Open Library/IA)"
+    highlights:
+      - "Mathers' English edition with ritual instructions and squares."
+      - "Ideal for extracting word-squares and ritual schemas."
+      - "Use Open Library mirrors for consistent pagination."
+
+kabbalistic_currents:
+  - title: "Sefer Raziel HaMalakh (Hebrew facsimile – USM Special Collection)"
+    author: "Traditional"
+    year: "18th–19th c. prints"
+    tradition: "Kabbalistic / Solomonic"
+    url: "https://digitalcommons.usm.maine.edu/jud_sefer_raziel/1/"
+    license: "CC BY-NC-ND (library digitization) – review reuse limits"
+    highlights:
+      - "Hebrew facsimile featuring angelic and protective seals."
+      - "High fidelity scans for paleographic study (respect license)."
+      - "Complements Solomonic material with Jewish magical context."

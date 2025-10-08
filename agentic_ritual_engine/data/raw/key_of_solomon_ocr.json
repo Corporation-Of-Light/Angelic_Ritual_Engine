@@ -1,0 +1,16 @@
+{
+  "pdf": "data/raw/key_of_solomon_mathers.pdf",
+  "pages": [1, 2],
+  "language": "eng",
+  "results": [
+    {
+      "page": 1,
+      "metadata": {
+        "title_guess": "CLAVICULA SALOMONIS",
+        "year_guess": "1889",
+        "keywords": ["seal", "king", "solomon"]
+      },
+      "text_preview": "Manual metadata entry (OCR tooling requires tesseract binary)."
+    }
+  ]
+}
